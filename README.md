@@ -48,3 +48,6 @@ A modern iOS app built using SwiftUI that helps students track their academic pr
 
 3.Go to File > Add Packages 
   https://github.com/AppPear/ChartView
+
+4.Run the app on simulator or device.
+
